@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Features\Category\" />
+    <Folder Include="Features\Cart\" />
+    <Folder Include="Features\CartItem\" />
+    <Folder Include="Features\Image\" />
+    <Folder Include="Features\Transaction\" />
+    <Folder Include="Features\OrderItem\" />
+    <Folder Include="Features\Order\" />
+    <Folder Include="Features\Product\" />
+    <Folder Include="Features\ApplicationUser\" />
+  </ItemGroup>
+
+</Project>
